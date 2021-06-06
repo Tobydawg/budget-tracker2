@@ -42,7 +42,7 @@
           For questions about the Generator you can go to my Github
           at the following Link:
 
-          - GitHub Profile: (https://github.com/)tobydawg)
+          - GitHub Profile: https://github.com/tobydawg
           - Heroku: https://mysterious-thicket-56625.herokuapp.com/
           - Screencastify: https://drive.google.com/file/d/12tdWKMzfjTB3TVn7TJO7Nn_4IxwJebst/view
 
