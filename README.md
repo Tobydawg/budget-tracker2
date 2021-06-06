@@ -42,9 +42,10 @@
           For questions about the Generator you can go to my Github
           at the following Link:
 
-          - GitHub Profile: https://github.com/tobydawg
+          - GitHub Profile: https://github.com/Tobydawg
+          - GitHub Repository: https://github.com/Tobydawg/budget-tracker2
           - Heroku: https://mysterious-thicket-56625.herokuapp.com/
-          - Screencastify: https://drive.google.com/file/d/12tdWKMzfjTB3TVn7TJO7Nn_4IxwJebst/view
+          - Screencastify: https://drive.google.com/file/d/1Owd8_n20meF_kp6zPxvOrYr3iQPB-VK8/view
 
           For additional questions please reach out to my email at: tobytobymoore@gmail.com.
         
